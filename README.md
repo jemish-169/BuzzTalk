@@ -1,4 +1,4 @@
-# BuzzTalk - An Android Based Social Media App to Grow Your Network
+# BuzzTalk - An Social Media App to Grow Your Network
 
 ## App Features : 
 
