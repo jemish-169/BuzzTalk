@@ -13,33 +13,30 @@
 
 ## 📸 Screenshots
 
-|   |   |   |
-|---|---|---|
-|![](screenshots/12.jpeg)|![](screenshots/13.jpeg)|![](screenshots/14.jpeg)
+| Onboarding | SignUp | LogIn |
+|--|--|--|
+|![onboarding](https://user-images.githubusercontent.com/95186825/224481805-3a5d53f5-8740-45b2-9558-38771cb67491.jpg)|![signup](https://user-images.githubusercontent.com/95186825/224481811-bd5fc264-b137-400e-864e-188758ba5d31.jpg)|![login](https://user-images.githubusercontent.com/95186825/224481820-bda1d7f4-8522-43fb-9382-b81b39cde7aa.jpg)
 
-|   |   |   |
-|---|---|---|
-|![](screenshots/15.jpeg)|![](screenshots/16.jpeg)|![](screenshots/22.jpeg)
+| Set Name | Set Email | Set Password |
+|--|--|--|
+|![signup set name](https://user-images.githubusercontent.com/95186825/224481825-d8de4019-a9b9-40ed-bd17-83e590cf7192.jpg)|![signup set mail](https://user-images.githubusercontent.com/95186825/224481830-139031fb-ec1f-4f26-9876-a954ba1d4ff5.jpg)|![signup set pswd](https://user-images.githubusercontent.com/95186825/224481833-ab515853-3cdb-4131-b22f-f21b146ab282.jpg)
 
-|   |   |   |
-|---|---|---|
-|![](screenshots/18.jpeg)|![](screenshots/19.jpeg)|![](screenshots/20.jpeg)
+| User's Feed | User Profile | Post content from here |
+|--|--|--|
+|![feed](https://user-images.githubusercontent.com/95186825/224481847-7b6a25f5-12d9-4a5e-97ef-8d254dcad637.jpg)|![profile](https://user-images.githubusercontent.com/95186825/224481866-09b9be20-66cb-41fc-9c98-4b5c748f49ce.jpg)|![post](https://user-images.githubusercontent.com/95186825/224481871-cf431baf-1403-44bb-a2f9-cc42d920b6c4.jpg)
 
-|   |   |   |
-|---|---|---|
-|![](screenshots/21.jpeg)|![](screenshots/17.jpeg)|![](screenshots/3.jpeg)
+| All post with same Hashtag | Notification | Filter on Post |
+|--|--|--|
+|![hashtag post](https://user-images.githubusercontent.com/95186825/224481944-be8f5913-0351-4f85-9056-fab055eb5b00.jpg)|![notification](https://user-images.githubusercontent.com/95186825/224481947-d4c0a465-6592-4ef0-aeb0-3b121111f505.jpg)|![filter](https://user-images.githubusercontent.com/95186825/224481953-79f9a476-4831-4c57-a54e-47baea181b1d.jpg)
 
-|   |   |   |
-|---|---|---|
-|![](screenshots/4.jpeg)|![](screenshots/5.jpeg)|![](screenshots/6.jpeg)
+| User Connections | User Following | User Followers |
+|--|--|--|
+|![connections](https://user-images.githubusercontent.com/95186825/224481893-513433de-c8d2-494c-bc1f-571a08985dc1.jpg)|![following](https://user-images.githubusercontent.com/95186825/224481902-a960661a-8f89-4453-b729-d14dee76bbb8.jpg)|![followers](https://user-images.githubusercontent.com/95186825/224481911-1c95ccdf-cfdd-4c1c-b9b4-1ac60ce684e1.jpg)
 
-|   |   |   |
-|---|---|---|
-|![](screenshots/7.jpeg)|![](screenshots/8.jpeg)|![](screenshots/9.jpeg)
+| Connection request | Search User | Chat with connection |
+|--|--|--|
+|![connection request](https://user-images.githubusercontent.com/95186825/224481974-2a1d495c-26fc-4790-be85-8220a1c318e2.jpg)|![search user](https://user-images.githubusercontent.com/95186825/224481976-4b13c89d-2395-48e5-b460-52c8a6ffd85a.jpg)|![chat](https://user-images.githubusercontent.com/95186825/224481971-5e64286f-dc87-474a-b601-611f3588ca8d.jpg)
 
-|   |   |   |
-|---|---|---|
-|![](screenshots/10.jpeg)|![](screenshots/11.jpeg)|![](screenshots/12.jpeg)
 
 ## Built With 🛠
 - [Kotlin](https://kotlinlang.org/) - First class and official programming language for Android development.
